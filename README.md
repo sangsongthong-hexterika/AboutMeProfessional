@@ -67,8 +67,7 @@ A dedicated cybersecurity professional with a strong focus on penetration testin
 
 ### Reach Me:
 
-[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-0531ab179/)
-[GitHub](https://github.com/sangsongthong-hexterika)
-
+[![LinkedIn](Images/pajamas--linkedin.png)](https://www.linkedin.com/in/sangsongthong-chantaranothai-0531ab179/)
+[![GitHub](Images/skill-icons--github-light.png)](https://github.com/sangsongthong-hexterika)
 
 ---
