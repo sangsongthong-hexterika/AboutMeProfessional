@@ -1,8 +1,7 @@
 # Hi. I'm Sangsongthong Chantaranothai.
 
 **Penetration Tester | SOC Analyst | CEO & Founder of Hexterika Cyber Lab**
-
-A dedicated cybersecurity professional with a strong focus on penetration testing, security operations, and digital forensics. As the CEO and primary consultant of my start-up, Hexterika Cyber Lab, I offer cybersecurity services on Fiverr while continuing to build my skills and business. I also actively engage in Capture The Flag (CTF) challenges on the TryHackMe platform and run a virtual home lab to deepen my expertise.
+I am a dedicated **cybersecurity professional** with a strong focus on **penetration testing** and **security operations**. I actively engage in **Capture The Flag (CTF)** challenges on the **TryHackMe** platform, run a **virtual home lab**, and continually build my skills to expand my expertise in the field.
 
 ### Degree:
 
@@ -64,6 +63,9 @@ A dedicated cybersecurity professional with a strong focus on penetration testin
     - Listening (January): B2
 - Romanian: A0-A1
 - French: A0-A1
+
+### Freelance Work:
+As the **CEO**, **founder**, and **sole worker** of my startup, Hexterika Cyber Lab, I plan to offer cybersecurity services on Fiverr (coming soon).
 
 ### Reach Me:
 
