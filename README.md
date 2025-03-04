@@ -10,10 +10,12 @@ A dedicated cybersecurity professional with a strong focus on penetration testin
 
 ### Certificates:
 
-- CompTIA Security+ ce
-    - <a href="https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url" target="_blank" rel="noopener noreferrer">CompTIA Security+ ce</a>
+- CompTIA Security+ ce 
+    - [CompTIA Security+ ce](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
+    - ![CompTIA Security+ ce](Images/SangsongthongCompTIASecurityPlusCertPic.png)
 - Certified in Cybersecurity (CC) by ISC2
-    - <a href="https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url" target="_blank" rel="noopener noreferrer">CC</a>
+    - [CC](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
+    - ![CC](Images/SangsongthongCC-Cert-Pic.png)
 - Jr Penetration Tester learning path completion certificate by TryHackMe
     - ![Jr Penetration Tester learning path completion certificate by TryHackMe](Images/THM-Jr-Pentest-LearningPath-CertOfCompletion.png)
 
@@ -65,8 +67,8 @@ A dedicated cybersecurity professional with a strong focus on penetration testin
 
 ### Reach Me:
 
-<a href="https://www.linkedin.com/in/sangsongthong-chantaranothai-0531ab179/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-<a href="https://github.com/sangsongthong-hexterika" target="_blank" rel="noopener noreferrer">GitHub</a>
+[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-0531ab179/)
+[GitHub](https://github.com/sangsongthong-hexterika)
 
 
 ---
