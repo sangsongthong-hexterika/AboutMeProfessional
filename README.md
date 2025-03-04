@@ -15,7 +15,7 @@ A dedicated cybersecurity professional with a strong focus on penetration testin
 - Certified in Cybersecurity (CC) by ISC2
     - ![CC](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
 - Jr Penetration Tester learning path completion certificate by TryHackMe
-    - ![Jr Penetration Tester learning path completion certificate by TryHackMe](Images/THM-Jr-Pentest-LearningPath-CertOfCompletion.pngmages/THM-Jr-Pentest-LearningPath-CertOfCompletion.png)
+    - ![Jr Penetration Tester learning path completion certificate by TryHackMe](Images/THM-Jr-Pentest-LearningPath-CertOfCompletion.png)
 
 ### Cybersecurity Skills
 
