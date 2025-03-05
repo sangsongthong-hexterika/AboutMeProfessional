@@ -34,7 +34,8 @@ I am a dedicated **cybersecurity professional** with a strong focus on **penetra
     - Actively participating in CTF challenges on the TryHackMe platform.
     - Sharing walkthroughs of rooms I’ve completed on GitHub to document and showcase my skills.
     - Ongoing learning with a focus on penetration testing, web application security, and vulnerability exploitation.
-    - **GitHub**: (Repo coming soon)
+    - **GitHub**: [My TryHackMe Walkthrough Repo](https://github.com/sangsongthong-hexterika/TryHackMe/tree/main)
+
 - **Virtual Home Lab**
     - Running a dedicated virtual lab for penetration testing and network security assessments.
     - The lab setup includes a variety of vulnerable machines and services to practice exploitation techniques.
