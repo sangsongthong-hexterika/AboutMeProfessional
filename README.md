@@ -1,22 +1,25 @@
-# Hi. I'm Sangsongthong Chantaranothai.
+# Hi. I'm Sangsongthong Chantaranothai
 
 **Penetration Tester | SOC Analyst | CEO & Founder of Hexterika Cyber Lab**
 I am a dedicated **cybersecurity professional** with a strong focus on **penetration testing** and **security operations**. I actively engage in **Capture The Flag (CTF)** challenges on the **TryHackMe** platform, run a **virtual home lab**, and continually build my skills to expand my expertise in the field.
 
-### Degree:
+## Degree
 
 - Bachelor of Sport Science
 
-### Certificates:
+## Certificates
 
-- CompTIA Security+ ce 
-    - [CompTIA Security+ ce](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
-    - ![CompTIA Security+ ce](Images/SangsongthongCompTIASecurityPlusCertPic.png)
-- Certified in Cybersecurity (CC) by ISC2
-    - [CC](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
-    - ![CC](Images/SangsongthongCC-Cert-Pic.png)
+- [CompTIA Security+ ce](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
+
+  ![CompTIA Security+ ce](Images/SangsongthongCompTIASecurityPlusCertPic.png)
+
+- [Certified in Cybersecurity (CC) by ISC2](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
+
+    ![CC](Images/SangsongthongCC-Cert-Pic.png)
+
 - Jr Penetration Tester learning path completion certificate by TryHackMe
-    - ![Jr Penetration Tester learning path completion certificate by TryHackMe](Images/THM-Jr-Pentest-LearningPath-CertOfCompletion.png)
+  
+  ![Jr Penetration Tester learning path completion certificate by TryHackMe](Images/THM-Jr-Pentest-LearningPath-CertOfCompletion.png)
 
 ### Cybersecurity Skills
 
@@ -34,12 +37,12 @@ I am a dedicated **cybersecurity professional** with a strong focus on **penetra
     - Actively participating in CTF challenges on the TryHackMe platform.
     - Sharing walkthroughs of rooms I’ve completed on GitHub to document and showcase my skills.
     - Ongoing learning with a focus on penetration testing, web application security, and vulnerability exploitation.
-    - **GitHub**: [My TryHackMe Walkthrough Repo](https://github.com/sangsongthong-hexterika/TryHackMe/tree/main)
+    - **GitHub**: [View My TryHackMe Walkthrough](https://github.com/sangsongthong-hexterika/TryHackMe/tree/main)
 
 - **Virtual Home Lab**
     - Running a dedicated virtual lab for penetration testing and network security assessments.
     - The lab setup includes a variety of vulnerable machines and services to practice exploitation techniques.
-    - **GitHub**: (Lab details and repos coming soon!)
+    - **GitHub**: [View My Lab Documentation Here](https://github.com/sangsongthong-hexterika/AD-VirtualHomeLab1)
 
 ### Tools & Technologies
 
@@ -65,12 +68,24 @@ I am a dedicated **cybersecurity professional** with a strong focus on **penetra
 - Romanian: A0-A1
 - French: A0-A1
 
-### Freelance Work:
-As the **CEO**, **founder**, and **sole worker** of my startup, Hexterika Cyber Lab, I plan to offer cybersecurity services on Fiverr (coming soon).
+### Freelance Work
+
+- As the **CEO**, **founder**, and **sole worker** of my startup, Hexterika Cyber Lab, I plan to offer cybersecurity services on Fiverr (coming soon).
+
+- I offered a Figma UI/UX design on Fiverr. Designing only. No coding offer at the moment.
 
 ### Reach Me:
 
-[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-0531ab179/)
+[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai/)
 [GitHub](https://github.com/sangsongthong-hexterika)
+[TryHackMe](https://tryhackme.com/r/p/gexter5thm)
+[HexterikaCyberLabFacebookPage](https://www.facebook.com/share/162kohswBD/?mibextid=qi2Omg)
+[HexterikaCyberLabInstagram](https://www.instagram.com/hexterika.cyberlab?igsh=cTRoaGxmNGxrcmMz)
+[HexterikaDesignerFacebookPage](https://www.facebook.com/share/1XhqdR796V/?mibextid=qi2Omg)
+[HexterikaDesignerInstagram](https://www.instagram.com/hexterika.designer?igsh=MW83dXM4aG92amtrNw==)
+
+**Sangsongthong**
+| ***Hexterika Cyber Lab***
+| ***CEO**, **founder**, and **sole worker***
 
 ---
