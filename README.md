@@ -76,13 +76,19 @@ I am a dedicated **cybersecurity professional** with a strong focus on **penetra
 
 ### Reach Me:
 
-[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai/)
-[GitHub](https://github.com/sangsongthong-hexterika)
-[TryHackMe](https://tryhackme.com/r/p/gexter5thm)
-[HexterikaCyberLabFacebookPage](https://www.facebook.com/share/162kohswBD/?mibextid=qi2Omg)
-[HexterikaCyberLabInstagram](https://www.instagram.com/hexterika.cyberlab?igsh=cTRoaGxmNGxrcmMz)
-[HexterikaDesignerFacebookPage](https://www.facebook.com/share/1XhqdR796V/?mibextid=qi2Omg)
-[HexterikaDesignerInstagram](https://www.instagram.com/hexterika.designer?igsh=MW83dXM4aG92amtrNw==)
+[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai/)  
+
+[GitHub](https://github.com/sangsongthong-hexterika)  
+
+[TryHackMe](https://tryhackme.com/r/p/gexter5thm)  
+
+[Hexterika Cyber Lab Facebook Page](https://www.facebook.com/share/162kohswBD/?mibextid=qi2Omg)  
+
+[Hexterika Cyber Lab Instagram](https://www.instagram.com/hexterika.cyberlab?igsh=cTRoaGxmNGxrcmMz)  
+
+[Hexterika Designer Facebook Page](https://www.facebook.com/share/1XhqdR796V/?mibextid=qi2Omg)  
+
+[Hexterika Designer Instagram](https://www.instagram.com/hexterika.designer?igsh=MW83dXM4aG92amtrNw==)  
 
 **Sangsongthong**
 | ***Hexterika Cyber Lab***
