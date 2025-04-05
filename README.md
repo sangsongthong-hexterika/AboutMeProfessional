@@ -114,7 +114,7 @@ Here are my projects:
 
 I'm blending my interests in cybersecurity, marketing, and design into a unique personal brand, Hexterika, to showcase who I am and what I can offer. I’m committed to continual learning, professional growth, and breaking free from traditional limitations.
 
-### Education
+## Education
 
 + **Bachelor of Sport Science**
 Suranaree University of Technology, Thailand (2016-2020)
@@ -122,7 +122,7 @@ Suranaree University of Technology, Thailand (2016-2020)
 + **Skyline High School**
 CO, USA – Exchange Student (2011-2012)
 
-### Languages
+## Languages
 
 + **English** (TOEIC 2025)
   + **Writing:** C1 (January)
@@ -136,7 +136,7 @@ CO, USA – Exchange Student (2011-2012)
 
 ---
 
-### Reach Me
+## Reach Me
 
 [LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai/)  
 
@@ -146,6 +146,6 @@ CO, USA – Exchange Student (2011-2012)
 
 [HackTheBox](https://account.hackthebox.com/dashboard)
 
-#### *Sangsongthong*
+### *Sangsongthong*
 
 ---
