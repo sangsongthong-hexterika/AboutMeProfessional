@@ -62,6 +62,8 @@ I've completed several cybersecurity projects and hands-on labs on platforms lik
 
 + **Documentation:** GitHub
 
+![Git](Images/VersionControl.png)
+
 ## Social Media Marketing
 
 Alongside my technical expertise, I am also building a career in Social Media Marketing, particularly in campaign management, content creation, and performance tracking. I’ve earned the Meta Social Media Marketing Certificate (May 2024):
