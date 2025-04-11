@@ -2,7 +2,9 @@
 
 I'm Sangsongthong Chantaranothai.
 
-Penetration Tester | Founder of Hexterika | Designer & Digital Marketer
+![myProfessionalHeadshot1](Images/myProfessionalHeadshot1.jpg)
+
+Penetration Tester | UI/UX Designer | Digital Marketer | Founder & Owner of the Hexterika brand identity and its company Hexterika-Breaks-Free
 
 ## Cybersecurity Focus
 
