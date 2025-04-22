@@ -46,6 +46,10 @@ I've completed several cybersecurity projects and hands-on labs on platforms lik
 
 + [AD-VirtualHomeLab1](https://github.com/sangsongthong-hexterika/AD-VirtualHomeLab1)
 
++ [Bug Bounty Report Template](https://github.com/sangsongthong-hexterika/BugBountyHunting)
+
++ [Bugcrowd Profile](https://bugcrowd.com/hexterika-cyberlab)
+
 ### Penetration Testing Specializations
 
 + Web Application
@@ -144,9 +148,9 @@ CO, USA – Exchange Student (2011-2012)
 
 [GitHub](https://github.com/sangsongthong-hexterika)  
 
-[TryHackMe](https://tryhackme.com/r/p/gexter5thm)  
+[TryHackMe](https://tryhackme.com/r/p/gexter5thm)
 
-[HackTheBox](https://account.hackthebox.com/dashboard)
+[Hexterika Website](https://hexterika-breaks-free.website)
 
 ### *Sangsongthong*
 
