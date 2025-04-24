@@ -88,6 +88,16 @@ I manage the social media accounts for Hexterika Cyberlab and Hexterika Designer
 
 [Hexterika Designer Instagram](https://www.instagram.com/hexterika.designer?igsh=MW83dXM4aG92amtrNw==)
 
+### Skills
+
++ Social Media Marketing on Facebook, Instagram
++ Ads Manager
++ Campaign Manager
++ A/B Testing
++ Lookalike Audience
++ Custom Audience
++ Facebook Pixel
+
 ### Key Aspects of My Work
 
 Campaign Strategy: Developing comprehensive strategies to increase brand visibility and engagement.
