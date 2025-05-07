@@ -1,10 +1,34 @@
-# Professional About Me
+# About Me Professional
 
 I'm Sangsongthong Chantaranothai.
 
 ![myProfessionalHeadshot1](Images/myProfessionalHeadshot1.jpg)
 
-Penetration Tester | UI/UX Designer | Digital Marketer | Founder & Owner of the Hexterika brand identity and its company Hexterika-Breaks-Free
+***Penetration Tester | UI/UX Designer | Digital Marketer | Founder & Owner of the Hexterika brand identity and its company Hexterika-Breaks-Free***
+
+## Summary
+
+I'm a self-taught and self-driven professional with a multidisciplinary background across cybersecurity (penetration testing), UI/UX design, frontend development, and social media marketing. My path hasn't been linear — it’s shaped by curiosity, adaptability, and a deep commitment to continuous learning.
+
+In cybersecurity, I specialize in offensive security and penetration testing, supported by hands-on labs, certifications, and real-world practice. My foundation in frontend development and UI/UX design gives me an edge in understanding how applications are built and how users interact with them — a perspective that enhances both my red teaming and design capabilities. At the same time, I’ve built strong experience in social media marketing, focusing on content strategy, campaign management, and performance tracking.
+
+What ties it all together is the ability to see digital systems from multiple angles — as a user, a designer, a marketer, and a security tester. This broad but interconnected skill set helps me approach complex problems with both creativity and precision.
+
+To organize and represent these diverse skills, I created Hexterika — not just a brand, but a personal platform to showcase my journey, projects, and service offerings across these fields.
+
+## Brief Overview
+
+On this page, you will find that my skills are groups in order as follow to showcase my skills and background in the most detail and accurated way in one single page.
+
+| Section Name | Description |
+| :----------: | :---------: |
+| Cybersecurity | A detailed overview of my penetration testing and cybersecurity training, tools, and hands-on experience. |
+| Frontend Development & Coding | Acts as a bridge between cybersecurity and creative design — supporting both secure coding and layout understanding. |
+| UI/UX Design | A standalone skillset focused on user interface and experience design using Figma, independent of coding. |
+| Social Media Marketing | Focused on digital strategy, content creation, and campaign management. |
+| Soft Skills, Non-tech field, and Languages| Transferable interpersonal skills and multilingual ability. |
+| Formal Educational Background | Formal Education background. The specific sections above are all self-taught. |
+| Contact Me | Direct ways to reach out to me for collaboration or hiring. |
 
 ## Cybersecurity Focus
 
