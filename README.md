@@ -171,16 +171,21 @@ General Skills list:
   + Word
   + Excel
   + Power Points
-+ **Time Management & Working Across Time Zones**
-  + Early Exposure to Demanding Global Schedules
-    + Attended live online engineering classes from a Canadian university during COVID-19, held overnight in my local time zone.
-    + The experience revealed the importance of structured routines, clear priorities, and energy management.
-  + Practical Time Management Skills Developed Since 2022
++ **Time Management, Working Across Time Zones, and multi-tasking**
+  + **Early Exposure to Demanding Global Schedules**
+    + Enrolled in a Canadian engineering program during COVID-19, attending live classes overnight in my local time zone.
+    + Although I was committed, the combination of poor time management and financial constraints made it challenging to sustain the program. Ultimately, I chose to step back and reassess my path, realizing the need for better balance between work, study, and personal life.
+    + As a result of this reassessment, I formally left the engineering program and began working at the Synchrotron Light Research Institute—marking a clear pivot toward hands-on, practical work and a new professional direction.
+  + **Developed Time Management Through Diverse Roles**
+    + While enrolled, I also worked part-time as a freelance tech support, assisting a senator with her online conference and enabling smooth remote work.
+    + This role involved both onsite and remote responsibilities and marked my early experience in multitasking, time management, and coordinating tasks that depended on global time considerations.
+    + Learned to juggle overlapping responsibilities—technical support, client coordination, and adapting to shifting schedules—which strengthened my multitasking and prioritization skills.
+  + **Practical Time Management Skills Developed Since 2022**
     + Built and refined personal systems to manage independent work, study, and project goals effectively.
     + Focused on balancing various responsibilities across different time zones (e.g., Bangkok and Romania).
-  + Timezone-Aware Planning and Scheduling
+  + **Timezone-Aware Planning and Scheduling**
     + Practice time zone coordination for personal projects, including scheduling and planning across regions.
-  + Developed the ability to work autonomously and adjust schedules to optimize productivity.
+    + Developed the ability to work autonomously and adjust schedules to optimize productivity.
 + ***Result:*** I bring strong, self-developed time management and cross-timezone scheduling skills, ready to manage remote work and collaboration.
 
 ## Multidisciplinary Approach
