@@ -150,6 +150,39 @@ Here are my projects:
 
 [Klaus Journey Map - Fig Jam Board](https://www.figma.com/board/dgiRUo2VuLaDKvsG3obfAY/KlausJouneyMap?t=ZVPW87DxqlsFMsP8-1)
 
+## Non-Tech Skills & Soft Skills
+
+General Skills list:
+
++ CRM Tools: Zoho CRM, Salesforce CRM
+  + [Salesforce Essential Training](https://www.linkedin.com/learning/certificates/e5f50eb54f6685a83b789d106897b86563e67ba659cd5ae650d3e3d7ef9e81da)
+  + [Learning Zoho CRM](https://www.linkedin.com/learning/certificates/6d79d3ad29248743651a1f1439c003056ce742962d58b9a76a58b9d6e68c1387)
++ Notion
++ Google Workspace
+  + Google Drive
+  + Google Doc
+  + Google Sheet
+  + Google Spread
+  + Google Form
+  + Google Calendar
+  + Google Maps
+  + Other Google Services
++ Microsoft Office
+  + Word
+  + Excel
+  + Power Points
+
+Unique Skills That Make Sense With More Content
+
+Expansion of Unique Skills
+
++ working across time zones
++ Time Management
+
+Q: Why are you confident in working across time zones and managing your time efficiently?
+
+A: In 2020, I enrolled in an engineering program with a university in Canada, fully expecting to move there. But due to COVID-19, everything went online, and I had to attend live classes in the middle of the night in my time zone. The issue wasn't staying up late—I could do that—but my lack of time management meant I couldn't balance rest, study, and other responsibilities effectively. Combined with financial constraints, I eventually had to withdraw. That experience became a turning point. Since then, especially from 2022 onward, I've consistently improved my time management skills while working, including at the Synchrotron Light Research Institute. I've learned how to manage timezone tools, plan schedules globally, and even build routines—like content timing across Bangkok and Romania—to maintain clarity and consistency. It's now a refined skill, not just a lesson.
+
 ## Multidisciplinary Approach
 
 I'm blending my interests in cybersecurity, marketing, and design into a unique personal brand, Hexterika, to showcase who I am and what I can offer. I’m committed to continual learning, professional growth, and breaking free from traditional limitations.
@@ -159,8 +192,16 @@ I'm blending my interests in cybersecurity, marketing, and design into a unique 
 + **Bachelor of Sport Science**
 Suranaree University of Technology, Thailand (2016-2020)
 
+  + Self-taught Linux and Python alongside academic studies.
+  + Completed a basic Arduino project for a Sport Technology course; led the group and coded the project independently within two weeks despite a delayed budget.
+  + Anticipated project risks, self-learned coding in advance, and ensured timely submission.
+  + Completed a 4-month COOP internship as a Personal Trainer Assistant.
+
 + **Skyline High School**
 CO, USA – Exchange Student (2011-2012)
+  + Exchange Student Program
+  + Gained real-life fluency in English through full immersion in an American high school environment.
+  + Developed strong soft skills including communication, cross-cultural understanding, adaptability, and problem-solving.
 
 ## Languages
 
@@ -176,7 +217,7 @@ CO, USA – Exchange Student (2011-2012)
 
 ---
 
-## Reach Me
+## Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai/)  
 
