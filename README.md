@@ -171,17 +171,17 @@ General Skills list:
   + Word
   + Excel
   + Power Points
-
-Unique Skills That Make Sense With More Content
-
-Expansion of Unique Skills
-
-+ working across time zones
-+ Time Management
-
-Q: Why are you confident in working across time zones and managing your time efficiently?
-
-A: In 2020, I enrolled in an engineering program with a university in Canada, fully expecting to move there. But due to COVID-19, everything went online, and I had to attend live classes in the middle of the night in my time zone. The issue wasn't staying up late—I could do that—but my lack of time management meant I couldn't balance rest, study, and other responsibilities effectively. Combined with financial constraints, I eventually had to withdraw. That experience became a turning point. Since then, especially from 2022 onward, I've consistently improved my time management skills while working, including at the Synchrotron Light Research Institute. I've learned how to manage timezone tools, plan schedules globally, and even build routines—like content timing across Bangkok and Romania—to maintain clarity and consistency. It's now a refined skill, not just a lesson.
++ **Time Management & Working Across Time Zones**
+  + Early Exposure to Demanding Global Schedules
+    + Attended live online engineering classes from a Canadian university during COVID-19, held overnight in my local time zone.
+    + The experience revealed the importance of structured routines, clear priorities, and energy management.
+  + Practical Time Management Skills Developed Since 2022
+    + Built and refined personal systems to manage independent work, study, and project goals effectively.
+    + Focused on balancing various responsibilities across different time zones (e.g., Bangkok and Romania).
+  + Timezone-Aware Planning and Scheduling
+    + Practice time zone coordination for personal projects, including scheduling and planning across regions.
+  + Developed the ability to work autonomously and adjust schedules to optimize productivity.
++ ***Result:*** I bring strong, self-developed time management and cross-timezone scheduling skills, ready to manage remote work and collaboration.
 
 ## Multidisciplinary Approach
 
