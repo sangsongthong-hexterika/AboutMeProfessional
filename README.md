@@ -4,21 +4,32 @@
 
 ![myProfessionalHeadshot1](Images/myProfessionalHeadshot1.jpg)
 
-I'm building **Hexterika**, a personal brand offering freelance services in:
+I'm building hands-on experience in Security Operations and Cloud Infrastructure, with a focus on:
 
-🛡️ Cybersecurity (Pentesting, VDP)
++ Windows & Linux systems
++ AWS IAM and EC2 security configuration
++ Log analysis and incident triage fundamentals
++ Network traffic basics
 
-🎨 UI/UX Design (see my Figma Community)
+I hold:
 
-📣 Social Media Marketing
++ CompTIA Security+
++ ISC2 Certified in Cybersecurity (CC)
 
-💻 I also use Python, HTML/CSS, and JavaScript to support my own projects.
+My current focus is strengthening practical SOC skills through structured labs, documentation, and reproducible environments.
 
-I plan to grow this into a company called **Hexterika-Breaks-Free**.
+This repository documents my professional profile and direction as I transition fully into Cybersecurity.
+
+Additional hands-on training:
+
++ TryHackMe Jr Penetration Tester learning path
+
+## Highlight Labs
+
+*Highlight labs will be added here as curated examples of structured SOC and cloud security work.*
 
 ## 📫 Contact me
 
-🌐 [Hexterika-Breaks-Free](https://hexterika-breaks-free.website)
-💼 [LinkedIn](https://www.linkedn.com/in/sangsongthong-chantaranothai/)
+💼 [LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
 
 ---
