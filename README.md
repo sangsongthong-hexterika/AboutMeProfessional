@@ -4,27 +4,23 @@
 
 ![myProfessionalHeadshot1](Images/myProfessionalHeadshot1.jpg)
 
-I'm building hands-on experience in Security Operations and Cloud Infrastructure, with a focus on:
+Hands-on experience in Security Operations and Cloud Infrastructure, with an offensive security foundation.
+
+## Core Focus
 
 + Windows & Linux systems security
 + AWS IAM and EC2 security configuration
-+ Log analysis and incident triage fundamentals (SOC)
++ Log analysis and incident triage workflows (SOC)
 + Network traffic analysis
 + Web application and internal network penetration testing
 + Active Directory and credential attack techniques
 
-I hold:
+## Certifications
 
 + CompTIA Security+
 + ISC2 Certified in Cybersecurity (CC)
 
-## Current Focus
-
-Strengthening practical SOC and Blue Team skills through structured labs, documentation, and reproducible environments, while continuing to develop penetration testing and adversary simulation skills. This repository documents my professional profile and direction as I transition fully into Cybersecurity.
-
-I am particularly interested in security from both the defender and attacker perspectives, and I build labs that simulate real-world attacks and detection scenarios.
-
-This repository documents my professional profile and direction as I transition fully into Cybersecurity.
+All labs are built with reproducibility and documentation in mind to reflect real operational environments.
 
 ## Additional hands-on training
 
@@ -33,22 +29,19 @@ This repository documents my professional profile and direction as I transition 
 ## Highlight Labs
 
 + Mock Penetration Testing Report – GoldenEye (TryHackMe)
-  + This project demonstrates a full attack chain simulation and professional reporting, including:
-    + Reconnaissance and enumeration
-    + Credential exposure and brute-force attacks
-    + Email and credential harvesting
-    + Privilege escalation
-    + Steganography-based credential extraction
-    + Remote Code Execution (RCE)
-    + Full system compromise and remediation reporting
-    + This report is written in a client-style penetration testing report format, not just a lab walkthrough.
+  + Full attack chain simulation
+  + Credential attacks and privilege escalation
+  + Remote Code Execution (RCE)
+  + Post-exploitation and reporting
+  + Client-style remediation recommendations
+  + [GoldenEye Report](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport/blob/main/GoldenEyeReport/goldenEyeREADME.md)
 
-## Language
+## Languages
 
-+ English - C1
++ English - TOEIC Writing C1; Listening & Reading 815; U.S. academic exchange (Grade 11 placement)
 + Thai - Native
-+ Romanian - Beginner
-+ Turkish - Beginner
++ Romanian - Beginner (A0–A1)
++ Turkish - Beginner (A1 course, ongoing)
 
 ## 📫 Contact me
 
