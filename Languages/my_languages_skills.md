@@ -2,6 +2,8 @@
 
 ## Thai - Native
 
+Native speaker - no certification required
+
 ## English
 
 ### TOEIC (2025 - 2027)
