@@ -47,4 +47,8 @@ All labs are built with reproducibility and documentation in mind to reflect rea
 
 💼 [LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
 
+📦 [HackTheBox](https://profile.hackthebox.com/profile/019d6d52-dc66-7256-83d1-264146618095)
+
+🛡️ [TryHackMe](https://tryhackme.com/p/gexter5thm)
+
 ---
