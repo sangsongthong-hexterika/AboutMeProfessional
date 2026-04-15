@@ -38,10 +38,7 @@ All labs are built with reproducibility and documentation in mind to reflect rea
 
 ## Languages
 
-+ English - TOEIC Writing C1; Listening & Reading 815; U.S. academic exchange (Grade 11 placement)
-+ Thai - Native
-+ Romanian - Beginner (A0–A1)
-+ Turkish - Beginner (A1 course, ongoing)
+🌍 [My_Language_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages/my_languages_skills.md)
 
 ## 📫 Contact me
 
