@@ -38,7 +38,7 @@ All labs are built with reproducibility and documentation in mind to reflect rea
 
 ## Languages
 
-🌍 [My_Language_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages/my_languages_skills.md)
+🌍 [My_Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Skills/my_languages_skills.md)
 
 ## 📫 Contact me
 
