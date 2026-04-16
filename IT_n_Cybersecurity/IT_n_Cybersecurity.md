@@ -1,8 +1,4 @@
-# About Me Professional
-
-👋 Hi, I'm Sangsongthong Chantaranothai.
-
-![myProfessionalHeadshot1](Images/myProfessionalHeadshot1.jpg)
+# IT And Cybersecurity
 
 Hands-on experience in Security Operations and Cloud Infrastructure, with an offensive security foundation.
 

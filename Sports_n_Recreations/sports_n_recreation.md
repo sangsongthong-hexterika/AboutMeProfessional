@@ -31,6 +31,10 @@ B.Sc. Sports Science
 + Suranaree Wittaya School Alumni Running
 + Cycling Event
 
+## Languages
+
+🌍 [My_Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Skills/my_languages_skills.md)
+
 ## Contact
 
 📷 [Instagram_mma](https://www.instagram.com/hexterika301mma/)
