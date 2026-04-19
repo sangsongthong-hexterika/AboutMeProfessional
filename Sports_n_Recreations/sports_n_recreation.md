@@ -2,24 +2,30 @@
 
 ## Degree
 
-B.Sc. Sports Science
-
-![Diploma]()
-
-![Transcript]()
++ B.Sc. Sports Science at Suranaree University of Technology Jul 2016 - Mar 2020
 
 ## Relevant Experiences
 
 ### Martial Arts
 
 + Muay Thai (~2013-2016)
-+ Mixed Martial Arts (~2013-2016)
++ Mixed Martial Arts (MMA) (~2013-2016)
 + BJJ (~2013-2016)
++ Tae Kwan Doe (ป.5-6 or Grade 5-6 Equivalent)(Discontinued to focus on academic studying)
 
 ### Water Sports
 
-+ PADI Advanced Open Water
-+ PADI EANx Specialty
++ Swimming
+  + Swim lesson starting at a 50m Olympic Standard pool located at the Army's pool, trained under an army's instructor, since the age of 4.
+  + Continue with swimming on and off but I started off with this foundation.
+  + No-army background - that pool was the closest available pool at the time.
++ Scuba Diving
+  + PADI Advanced Open Water
+  + PADI EANx Specialty
+  + CMAS 1 Star
++ Surfing
+  + Once in Hawaii Trip in my Exchange Student Year (2012)
+  + Phuket (May 2026 - upcoming plan)
 
 ### Basketball
 
@@ -27,9 +33,9 @@ B.Sc. Sports Science
 
 ### Other Events
 
-+ Don Jedi Running
++ Don Jedi Running (COOP Nov 2019 - Feb 2020)
 + Suranaree Wittaya School Alumni Running
-+ Cycling Event
++ Various Cycling Events
 
 ## Languages
 
