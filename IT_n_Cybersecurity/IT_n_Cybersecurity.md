@@ -1,36 +1,31 @@
 # IT And Cybersecurity
 
-Hands-on experience in Security Operations and Cloud Infrastructure, with an offensive security foundation.
-
-## Core Focus
-
-+ Windows & Linux systems security
-+ AWS IAM and EC2 security configuration
-+ Log analysis and incident triage workflows (SOC)
-+ Network traffic analysis
-+ Web application and internal network penetration testing
-+ Active Directory and credential attack techniques
+Hands-on experience in penetration testing, security operations, and infrastructure support, with an offensive security foundation.
 
 ## Certifications
 
 + CompTIA Security+
 + ISC2 Certified in Cybersecurity (CC)
++ TryHackMe Jr. Penetration Tester
 
-All labs are built with reproducibility and documentation in mind to reflect real operational environments.
+## Core Focus
 
-## Additional hands-on training
++ Web application and network penetration testing
++ Vulnerability assessment and attack surface analysis
++ Windows and Linux endpoint log analysis and investigation
++ SOC detection engineering and alert triage
++ Active Directory attack techniques
++ Penetration test reporting and documentation
++ AWS cloud security configuration and IAM policy analysis
 
-+ TryHackMe Jr Penetration Tester learning path
+## Labs and Repositories
 
-## Highlight Labs
-
-+ Mock Penetration Testing Report – GoldenEye (TryHackMe)
-  + Full attack chain simulation
-  + Credential attacks and privilege escalation
-  + Remote Code Execution (RCE)
-  + Post-exploitation and reporting
-  + Client-style remediation recommendations
-  + [GoldenEye Report](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport/blob/main/GoldenEyeReport/goldenEyeREADME.md)
+| Repository | Description | Status |
+| --- | --- | --- |
+| [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Professional pentest reports from lab environments | Active |
+| [TryHackMe Walkthroughs](https://github.com/sangsongthong-hexterika/TryHackMe-Walkthroughs) | Room walkthroughs covering full attack chains | Active |
+| [PortSwigger Labs](https://github.com/sangsongthong-hexterika/PortSwiggerWalkthroughs) | Web application security labs | Active |
+| [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Structured SOC detection lab across four phases | In Progress |
 
 ## Languages
 
