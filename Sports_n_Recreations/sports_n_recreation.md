@@ -26,6 +26,7 @@
 + Surfing
   + Once in Hawaii Trip in my Exchange Student Year (2012)
   + Phuket (May 2026 - upcoming plan)
++ Jet Ski (Beginner)
 
 ### Basketball
 
