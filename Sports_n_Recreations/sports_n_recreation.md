@@ -20,9 +20,9 @@
   + Continue with swimming on and off but I started off with this foundation.
   + No-army background - that pool was the closest available pool at the time.
 + Scuba Diving
-  + PADI Advanced Open Water
+  + PADI Advanced Open Water (PADI AOW)
   + PADI EANx Specialty
-  + CMAS 1 Star
+  + CMAS 1 Star (Before I crossover to PADI AOW after I changed the dive shop.)
 + Surfing
   + Once in Hawaii Trip in my Exchange Student Year (2012)
   + Phuket (May 2026 - upcoming plan)
