@@ -8,17 +8,19 @@ Native speaker - no certification required
 
 ### TOEIC (2025 - 2027)
 
-![TOEIC_2025_Writing](Images/TOEIC_2025_Writing.jpeg)
+![TOEIC_2025_Writing](./Images/TOEIC_2025_Writing.jpeg)
 
-![TOEIC_2025_Listening_n_Reading](Images/TOEIC_2025_Listening_n_Reading.jpeg)
+![TOEIC_2025_Listening_n_Reading](./Images/TOEIC_2025_Listening_n_Reading.jpeg)
 
-![TOEIC_2025_Speaking](Images/TOEIC_2025_Speaking.jpeg)
+![TOEIC_2025_Speaking](./Images/TOEIC_2025_Speaking.jpeg)
 
-### IELTS (Old reference)
+### IELTS Academic (Expired — historical reference)
 
-Will insert the photo later
++ Date: February 2020
++ Overall Band Score: 6.5 (CEFR B2)
++ Listening: 7.0 | Reading: 7.5 | Writing: 6.0 | Speaking: 5.5
 
-Expired - included as proof of prior attainment
+![IELTS_2020](./Images/IELTS_2020.jpeg)
 
 ### Exchange Student In Longmont, CO, USA Transcript
 
