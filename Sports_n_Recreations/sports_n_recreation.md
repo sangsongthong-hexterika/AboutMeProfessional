@@ -34,9 +34,12 @@
 
 ### Other Events
 
-+ Don Jedi Running (COOP Nov 2019 - Feb 2020)
-+ Suranaree Wittaya School Alumni Running
-+ Various Cycling Events
++ Don Jedi Running (COOP Nov 2019 - Feb 2020).
++ Suranaree Wittaya School Alumni Running.
++ Various Cycling Events.
++ Completed a Sport Science COOP research project (2019–2020) at Sport University Suphan Buri Branch (มหาวิทยาลัยกีฬาแห่งชาติวิทยาเขตสุพรรณบุรี) - formally สถาบันพละศึกษาสุพรรณบุรี.
+  + Focused on VO2Max assessment and designing a training program to improve aerobic performance in the high school wrestling team at the adjacent sport school (โรงเรียนกีฬาสุพรรณบุรี)
+  + Assigned by the head coach of the wrestling team, who also served as fitness gym director at the Sport University and was the primary COOP supervisor
 
 ## Languages
 
