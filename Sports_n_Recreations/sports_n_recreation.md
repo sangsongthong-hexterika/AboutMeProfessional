@@ -23,9 +23,9 @@
   + PADI Advanced Open Water (PADI AOW)
   + PADI EANx Specialty
   + CMAS 1 Star (Before I crossover to PADI AOW after I changed the dive shop.)
-+ Surfing
++ Surfing (Beginner)
   + Once in Hawaii Trip in my Exchange Student Year (2012)
-  + Phuket (May 2026 - upcoming plan)
+  + Phuket
 + Jet Ski (Beginner)
 
 ### Basketball
