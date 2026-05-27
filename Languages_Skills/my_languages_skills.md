@@ -36,6 +36,10 @@ Turkish Language course A1 (Cankaya Egitim Merkezi)
 
 *Note: Due to some personal circumstances, I had to discontinue the course, but the learning material is still with me so I will continue to learn it on my own until a new circumstance arises.*
 
+## Other Languages (Russian, Spanish, French, Italian, etc.) 
+
+Willing to learn if the opportunity arises through work or relocation.
+
 ## Summary
 
 | Language | Level | Status |
