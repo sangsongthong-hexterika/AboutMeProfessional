@@ -25,6 +25,7 @@ Hands-on experience in penetration testing, security operations, and infrastruct
 | [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Professional pentest reports from lab environments | Active |
 | [TryHackMe Walkthroughs](https://github.com/sangsongthong-hexterika/TryHackMe-Walkthroughs) | Room walkthroughs covering full attack chains | Active |
 | [PortSwigger Labs](https://github.com/sangsongthong-hexterika/PortSwiggerWalkthroughs) | Web application security labs | Active |
+| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Secure AWS IAM foundation setup — users, groups, roles, MFA, billing isolation, password policy, with walkthrough documentation | Active |
 | [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Structured SOC detection lab across four phases | In Progress |
 | [ActiveDirectory-HomeLab](https://github.com/sangsongthong-hexterika/ActiveDirectory-HomeLab) | Enterprise AD environment simulating ADDC setup, domain join, and intentional misconfigurations for pentest practice | In Progress |
 
