@@ -35,6 +35,7 @@ Advanced React · Version Control — plus UX/UI Design Principles.
 | [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Secure AWS IAM foundation setup — users, groups, roles, MFA, billing isolation, password policy, with walkthrough documentation | Active |
 | [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Structured SOC detection lab across four phases | In Progress |
 | [ActiveDirectory-HomeLab](https://github.com/sangsongthong-hexterika/ActiveDirectory-HomeLab) | Enterprise AD environment simulating ADDC setup, domain join, and intentional misconfigurations for pentest practice | In Progress |
+| [IT_Support_Notes](https://github.com/sangsongthong-hexterika/IT-Support-Notes) | Practical IT support documentation — real setup work and lab. | Active |
 
 ## Languages
 
