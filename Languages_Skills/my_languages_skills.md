@@ -8,6 +8,8 @@ Native speaker - no certification required
 
 ### TOEIC (2025 - 2027)
 
+**TOEIC (Jan–Feb 2025):** Writing C1 · Listening B2 · Reading B1 · Speaking B1
+
 ![TOEIC_2025_Writing](./Images/TOEIC_2025_Writing.jpeg)
 
 ![TOEIC_2025_Listening_n_Reading](./Images/TOEIC_2025_Listening_n_Reading.jpeg)
@@ -24,6 +26,8 @@ Native speaker - no certification required
 
 ### Exchange Student In Longmont, CO, USA Transcript
 
+**U.S. exchange year** — Skyline High School, Colorado (2011–2012)
+
 ![SkylineHS_Transcript](Images/SkylineHS_Transcript.jpeg)
 
 ## Romanian (In progress)
@@ -36,7 +40,7 @@ Turkish Language course A1 (Cankaya Egitim Merkezi)
 
 *Note: Due to some personal circumstances, I had to discontinue the course, but the learning material is still with me so I will continue to learn it on my own until a new circumstance arises.*
 
-## Other Languages (Russian, Spanish, French, Italian, etc.) 
+## Other Languages (Russian, Spanish, French, Italian, etc.)
 
 Willing to learn if the opportunity arises through work or relocation.
 
