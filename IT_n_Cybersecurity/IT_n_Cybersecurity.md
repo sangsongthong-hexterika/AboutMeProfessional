@@ -2,11 +2,18 @@
 
 Hands-on experience in penetration testing, security operations, and infrastructure support, with an offensive security foundation.
 
-## Certifications
+## 🎓 Verified Certifications
 
-+ CompTIA Security+
-+ ISC2 Certified in Cybersecurity (CC)
-+ TryHackMe Jr. Penetration Tester
++ **CompTIA Security+ ce** — [Verify on Credly](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
++ **ISC2 Certified in Cybersecurity (CC)** — [Verify on Credly](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
++ **TryHackMe Jr Penetration Tester Path** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MISC2CWYYQ.pdf)
++ Full badge wallet: [Credly profile](https://www.credly.com/users/sangsongthong-chantaranothai)
+
+### Supporting technical coursework (Meta on Coursera)
+
+Front-End Development · HTML & CSS In Depth · JavaScript · React Basics ·
+Advanced React · Version Control — plus UX/UI Design Principles.
+(Share links available on request; these support my web and tooling work.)
 
 ## Core Focus
 
