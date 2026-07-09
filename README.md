@@ -4,6 +4,11 @@
 
 B.Sc. Sport Science | CompTIA Security+ | ISC2 CC | TryHackMe Jr. Pentester
 
+Two professional tracks, one person: I built an IT career and my own
+cybersecurity company while continuing to train as an athlete. IT &
+Security is my primary field; Sport Science (B.Sc.) is my second
+profession, not a gap.
+
 ![myProfessionalHeadshot1](Images/myProfessionalHeadshot1.jpg)
 
 This is where I sort my skills into relevant categories.
