@@ -1,8 +1,14 @@
 # Sports And Recreations
 
-## Degree
+## 🎓 Academic Credential
 
-+ B.Sc. Sports Science at Suranaree University of Technology Jul 2016 - Mar 2020
+### B.Sc. Sport Science — Suranaree University of Technology (2020)
+
+This is my second profession, maintained in parallel with my IT career:
+2020–2026 I built an IT support career and founded my own cybersecurity
+services company while continuing structured training in Muay Thai and
+aquatic disciplines. Current work: filmed technique portfolio (Muay Thai)
+and open-water swimming preparation.
 
 ## Relevant Experiences
 
