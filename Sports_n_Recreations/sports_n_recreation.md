@@ -1,6 +1,8 @@
 # Sports And Recreations
 
-My sports Instagram serves as an extension of this portfolio, documenting ongoing training, exercise routines, skill development, and athletic progress. Rather than functioning as a personal social media account, it provides a visual record of my continued commitment to sports and physical development.
+This repository documents my academic background in Sport Science together with my practical experience across multiple sports disciplines. It serves as my professional sports portfolio, showcasing my education, training, and ongoing athletic development while documenting the skills and experience that support opportunities in coaching, fitness, recreation, and related fields.
+
+Alongside formal academic training, I continue to develop practical experience through regular training, personal performance tracking, and participation across multiple disciplines. This repository combines academic qualifications with real-world practice to present a complete picture of my sports background.
 
 ## 🎓 Academic Credential
 
@@ -49,10 +51,12 @@ and open-water swimming preparation.
   + Focused on VO2Max assessment and designing a training program to improve aerobic performance in the high school wrestling team at the adjacent sport school (โรงเรียนกีฬาสุพรรณบุรี)
   + Assigned by the head coach of the wrestling team, who also served as fitness gym director at the Sport University and was the primary COOP supervisor
 
+## Instagram
+
+My sports Instagram serves as an extension of this portfolio, documenting ongoing training, exercise routines, skill development, and athletic progress. Rather than functioning as a personal social media account, it provides a visual record of my continued commitment to sports and physical development.
+
+📷 [Instagram_mma](https://www.instagram.com/hexterika301mma/)
+
 ## Languages
 
 🌍 [My_Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Skills/my_languages_skills.md)
-
-## Contact
-
-📷 [Instagram_mma](https://www.instagram.com/hexterika301mma/)
