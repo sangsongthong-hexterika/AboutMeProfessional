@@ -1,5 +1,7 @@
 # IT And Cybersecurity
 
+## Purpose
+
 This repository documents my IT and cybersecurity journey through practical projects, technical write-ups, and structured service development.
 
 Rather than treating labs as isolated exercises, I build each project with the goal of understanding the technology, documenting the implementation, standardizing the workflow, and maturing it into a service offering through Hexterika Cyberlab where appropriate.
@@ -11,20 +13,9 @@ Every project in this portfolio is intended to become four things simultaneously
 + a portfolio artifact,
 + and a repeatable service workflow.
 
-## 🎓 Verified Certifications
+## Overview
 
-+ **CompTIA Security+ ce** — [Verify on Credly](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
-+ **ISC2 Certified in Cybersecurity (CC)** — [Verify on Credly](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
-+ **TryHackMe Jr Penetration Tester Path** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MISC2CWYYQ.pdf)
-+ Full badge wallet: [Credly profile](https://www.credly.com/users/sangsongthong-chantaranothai)
-
-### Supporting technical coursework (Meta on Coursera)
-
-Front-End Development · HTML & CSS In Depth · JavaScript · React Basics ·
-Advanced React · Version Control — plus UX/UI Design Principles.
-(Share links available on request; these support my web and tooling work.)
-
-## Core Focus
+### Core Focus
 
 + Web application and network penetration testing
 + Vulnerability assessment and attack surface analysis
@@ -34,7 +25,29 @@ Advanced React · Version Control — plus UX/UI Design Principles.
 + Penetration test reporting and documentation
 + AWS cloud security configuration and IAM policy analysis
 
-## Labs and Repositories
+### Supporting technical coursework (Meta on Coursera)
+
+Front-End Development · HTML & CSS In Depth · JavaScript · React Basics ·
+Advanced React · Version Control — plus UX/UI Design Principles.
+(Share links available on request; these support my web and tooling work.)
+
+## Navigation
+
++ Certifications
++ Technical Projects
++ Technical Write-ups
++ Service Development
++ Skills
++ Experience
+
+## Certifications
+
++ **CompTIA Security+ ce** — [Verify on Credly](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
++ **ISC2 Certified in Cybersecurity (CC)** — [Verify on Credly](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
++ **TryHackMe Jr Penetration Tester Path** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MISC2CWYYQ.pdf)
++ Full badge wallet: [Credly profile](https://www.credly.com/users/sangsongthong-chantaranothai)
+
+## Technical Projects
 
 | Repository | Description | Status |
 | --- | --- | --- |
@@ -52,10 +65,16 @@ Advanced React · Version Control — plus UX/UI Design Principles.
 
 ## 📫 Contact me
 
-💼 [LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
+💼 [Personal LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
 
 📦 [HackTheBox](https://profile.hackthebox.com/profile/019d6d52-dc66-7256-83d1-264146618095)
 
 🛡️ [TryHackMe](https://tryhackme.com/p/gexter5thm)
+
+💼 [Hexterika Cyberlab LinkedIn](https://www.linkedin.com/company/hexterika-cyberlab/)
+
+📷 [Hexterika Cyberlab Instagram](https://www.instagram.com/hexterika.cyberlab)
+
+📰 [Hexterika Cyberlab Facebook](https://www.facebook.com/p/Hexterika-Cyber-Lab-61573851359566/)
 
 ---
