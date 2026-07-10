@@ -1,5 +1,7 @@
 # My Languages Skills
 
+This repository documents the language and cross-cultural communication skills that support my professional work. Alongside technical ability, I view language proficiency as an essential tool for collaborating with international teams, adapting to new environments, and building long-term career opportunities across different regions.
+
 ## Thai - Native
 
 Native speaker - no certification required
