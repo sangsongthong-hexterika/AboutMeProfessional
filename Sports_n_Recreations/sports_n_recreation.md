@@ -1,5 +1,7 @@
 # Sports And Recreations
 
+My sports Instagram serves as an extension of this portfolio, documenting ongoing training, exercise routines, skill development, and athletic progress. Rather than functioning as a personal social media account, it provides a visual record of my continued commitment to sports and physical development.
+
 ## 🎓 Academic Credential
 
 ### B.Sc. Sport Science — Suranaree University of Technology (2020)
