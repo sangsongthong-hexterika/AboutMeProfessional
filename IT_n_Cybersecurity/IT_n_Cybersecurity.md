@@ -1,6 +1,15 @@
 # IT And Cybersecurity
 
-Hands-on experience in penetration testing, security operations, and infrastructure support, with an offensive security foundation.
+This repository documents my IT and cybersecurity journey through practical projects, technical write-ups, and structured service development.
+
+Rather than treating labs as isolated exercises, I build each project with the goal of understanding the technology, documenting the implementation, standardizing the workflow, and maturing it into a service offering through Hexterika Cyberlab where appropriate.
+
+Every project in this portfolio is intended to become four things simultaneously:
+
++ a practical learning experience,
++ technical documentation,
++ a portfolio artifact,
++ and a repeatable service workflow.
 
 ## 🎓 Verified Certifications
 
