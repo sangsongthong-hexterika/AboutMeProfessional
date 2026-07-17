@@ -1,8 +1,8 @@
-# Technology Porfolio Career
+# Technology Portfolio
 
 ## Purpose
 
-This repository documents my IT and cybersecurity journey through practical projects, technical write-ups, and structured service development.
+This portfolio documents my technical capabilities through practical projects, technical write-ups, and structured service development.
 
 Rather than treating labs as isolated exercises, I build each project with the goal of understanding the technology, documenting the implementation, standardizing the workflow, and maturing it into a service offering through Hexterika Cyberlab where appropriate.
 
