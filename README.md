@@ -12,13 +12,17 @@ This repository serves as the central hub for my professional profile. It brings
 
 This is where I sort my skills into relevant categories.
 
-💻 [IT_And_Cybersecurity](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/IT_n_Cybersecurity/IT_n_Cybersecurity.md)
+💻 [Tech_Porfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/IT_n_Cybersecurity/IT_n_Cybersecurity.md)
 
-*A "Hall of Fame" for my technical milestones, including completed certifications, specialized security labs, and ongoing technical write-ups.*
+*This section provides access to my Technology Career portfolio, organized by capabilities and supported by documented evidence.*
+
+---
 
 🌍 [Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Skills/my_languages_skills.md)
 
 *Professional language proficiency and cultural adaptability across multiple regions.*
+
+---
 
 🥋 [Sports_And_Recreation](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Sports_n_Recreations/sports_n_recreation.md)
 
