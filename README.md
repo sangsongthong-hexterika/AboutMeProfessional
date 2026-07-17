@@ -14,7 +14,7 @@ This is where I sort my skills into relevant categories.
 
 💻 [Tech_Porfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Tech_Portfolio/Tech_Portfolio.md)
 
-*This section provides access to my Technology Career portfolio, organized by capabilities and supported by documented evidence.*
+*This section provides access to my Tech Portfolio, organized by capabilities and supported by documented evidence.*
 
 ---
 
