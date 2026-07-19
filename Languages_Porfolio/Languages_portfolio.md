@@ -1,6 +1,6 @@
 # Languages Portfolio
 
-This portfolio showcases my language proficiency, communication skills, certifications, and cross-cultural adaptability that support my professional work. Alongside technical ability, I view language proficiency as an essential tool for collaborating with international teams, adapting to new environments, and building long-term career opportunities across different regions.
+This portfolio showcases my language proficiency, certifications, ongoing language development, and selected writing work. I view language proficiency as an essential complement to technical capability, supporting international collaboration, relocation, and professional opportunities while remaining open to learning new languages through personal interests and future experiences.
 
 ## Thai - Native
 
