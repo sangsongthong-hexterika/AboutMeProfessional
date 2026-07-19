@@ -20,7 +20,7 @@ This is where I sort my skills into relevant categories.
 
 🌍 [Languages_Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Porfolio/Languages_portfolio.md)
 
-*Professional language proficiency and cultural adaptability across multiple regions.*
+*Language proficiency, communication skills, certifications, and cross-cultural adaptability supporting international collaboration.*
 
 ---
 
