@@ -18,7 +18,7 @@ This is where I sort my skills into relevant categories.
 
 ---
 
-🌍 [Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Porfolio/Languages_portfolio.md)
+🌍 [Languages_Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Porfolio/Languages_portfolio.md)
 
 *Professional language proficiency and cultural adaptability across multiple regions.*
 
