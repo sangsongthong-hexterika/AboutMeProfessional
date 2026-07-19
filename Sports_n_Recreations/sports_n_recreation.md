@@ -60,3 +60,9 @@ My sports Instagram serves as an extension of this portfolio, documenting ongoin
 ## Languages
 
 🌍 [My_Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Skills/my_languages_skills.md)
+
+## A Research Repo
+
+This will need more edit but I add it here for now so I won't lose it.
+
+[Sport-Science](https://github.com/sangsongthong-hexterika/Sports-Science)
