@@ -34,7 +34,7 @@ Each project is carried from setup through configuration and testing, with the i
 
 💼 [Personal LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
 
-🌍 [Languages_Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Portfolio/Languages_portfolio.md)
+🌍 [Languages Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Portfolio/Languages_portfolio.md)
 
 📦 [HackTheBox](https://profile.hackthebox.com/profile/019d6d52-dc66-7256-83d1-264146618095)
 
