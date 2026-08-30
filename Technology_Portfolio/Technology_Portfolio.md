@@ -18,44 +18,26 @@ Each project is carried from setup through configuration and testing, with the i
 
 ## Technical Projects
 
-| Repository | Domain | Description | Status |
-| --- | --- | --- | --- |
-| [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Security | Professional pentest reports from lab environments | Active |
-| [TryHackMe Walkthroughs](https://github.com/sangsongthong-hexterika/TryHackMe-Walkthroughs) | Security | Room walkthroughs covering full attack chains | Active |
-| [PortSwigger Labs](https://github.com/sangsongthong-hexterika/PortSwiggerWalkthroughs) | Security | Web application security labs | Active |
-| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Cloud | Secure AWS IAM foundation setup — users, groups, roles, MFA, billing isolation, password policy, with walkthrough documentation | Active |
-| [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Security | Structured SOC detection lab across four phases | In Progress |
-| [ActiveDirectory-HomeLab](https://github.com/sangsongthong-hexterika/ActiveDirectory-HomeLab) | Windows • Infrastructure • Security | Enterprise AD environment simulating ADDC setup, domain join, and intentional misconfigurations for pentest practice | In Progress |
-| [IT_Support_Notes](https://github.com/sangsongthong-hexterika/IT-Support-Notes) | IT | Practical IT support documentation — real setup work and lab. | Active |
+| Repository | Domain | Description |
+| --- | --- | --- |
+| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Cloud | AWS account foundation and IAM group structures across five organization types, with walkthrough documentation |
+| [Active Directory Home Lab](https://github.com/sangsongthong-hexterika/ActiveDirectory-HomeLab) | Infrastructure | Windows Server domain build — domain controller, OUs, users, service accounts, share permissions |
+| [IT Support Notes](https://github.com/sangsongthong-hexterika/IT-Support-Notes) | IT | Practical IT support documentation — live setup work and lab work |
+| [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Security | Professional pentest reports from lab environments |
+| [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Security | Structured SOC detection lab across four phases |
+| [TryHackMe Walkthroughs](https://github.com/sangsongthong-hexterika/TryHackMe-Walkthroughs) | Security | Room walkthroughs covering full attack chains |
+| [PortSwigger Labs](https://github.com/sangsongthong-hexterika/PortSwiggerWalkthroughs) | Security | Web application security labs |
 
 ---
 
 ## Professional Profiles
 
-### Professional Identity
-
 💼 [Personal LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
 
 🌍 [Languages_Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Portfolio/Languages_portfolio.md)
 
----
-
-### Technical Platforms
-
 📦 [HackTheBox](https://profile.hackthebox.com/profile/019d6d52-dc66-7256-83d1-264146618095)
 
 🛡️ [TryHackMe](https://tryhackme.com/p/gexter5thm)
-
----
-
-### Hexterika Cyberlab
-
-💼 [Hexterika Cyberlab LinkedIn](https://www.linkedin.com/company/hexterika-cyberlab/)
-
-📷 [Hexterika Cyberlab Instagram](https://www.instagram.com/hexterika.cyberlab)
-
-📰 [Hexterika Cyberlab Facebook](https://www.facebook.com/p/Hexterika-Cyber-Lab-61573851359566/)
-
-🌐 [Hexterika Cyberlab Website](https://www.hexterikacyberlab.com/)
 
 ---
