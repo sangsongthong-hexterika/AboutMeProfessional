@@ -1,21 +1,13 @@
 # Technology Portfolio
 
-## Purpose
+This repository is the single source of truth for my technical background, linking together certifications, projects, write-ups, and external technical profiles.
 
-This portfolio documents my technical capabilities through practical projects, technical write-ups, and structured service development.
-
-Rather than treating labs as isolated exercises, I build each project with the goal of understanding the technology, documenting the implementation, standardizing the workflow, and maturing it into a service offering through Hexterika Cyberlab where appropriate.
-
-## Overview
-
-Every project in this portfolio is intended to become four things simultaneously:
+Each project is carried from setup through configuration and testing, with the implementation documented as I go, and is intended to become four things simultaneously:
 
 + a practical learning experience,
 + technical documentation,
 + a portfolio artifact,
-+ and a repeatable service workflow.
-  
-This repository serves as the single source of truth for my technical background, linking together certifications, projects, write-ups, service development, and external technical profiles.
++ and a reusable template or workflow for the next one.
 
 ## Certifications
 
@@ -35,48 +27,6 @@ This repository serves as the single source of truth for my technical background
 | [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Security | Structured SOC detection lab across four phases | In Progress |
 | [ActiveDirectory-HomeLab](https://github.com/sangsongthong-hexterika/ActiveDirectory-HomeLab) | Windows • Infrastructure • Security | Enterprise AD environment simulating ADDC setup, domain join, and intentional misconfigurations for pentest practice | In Progress |
 | [IT_Support_Notes](https://github.com/sangsongthong-hexterika/IT-Support-Notes) | IT | Practical IT support documentation — real setup work and lab. | Active |
-
-## Technical Domains
-
-### Infrastructure
-
-+ Linux
-+ Windows
-+ Active Directory
-+ IT Support
-
-### Cloud
-
-+ AWS IAM
-+ EC2
-+ VPC
-
-### Networking
-
-+ TCP/IP
-+ DNS
-+ VPN
-+ Routing
-+ Firewall
-
-### Security
-
-+ Vulnerability Assessment
-+ Web Application Security
-+ Detection
-+ Pentesting Methodology
-
-### Automation
-
-+ Bash
-+ PowerShell
-+ Python
-
-### Documentation
-
-+ Technical Reports
-+ Service Documentation
-+ GitHub Documentation
 
 ---
 
