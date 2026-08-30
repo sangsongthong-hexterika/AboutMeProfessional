@@ -13,7 +13,7 @@ Each project is carried from setup through configuration and testing, with the i
 
 + **CompTIA Security+ ce** — [Verify on Credly](https://www.credly.com/badges/b856b0d7-bb20-466c-8981-b7744f8bb64f/public_url)
 + **ISC2 Certified in Cybersecurity (CC)** — [Verify on Credly](https://www.credly.com/badges/2219a41c-2094-41a5-a530-28cf093c2c29/public_url)
-+ **TryHackMe Jr Penetration Tester Path** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MISC2CWYYQ.pdf)
++ **TryHackMe Junior Penetration Tester Path Completion** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MISC2CWYYQ.pdf)
 + Full badge wallet: [Credly profile](https://www.credly.com/users/sangsongthong-chantaranothai)
 
 ## Technical Projects
