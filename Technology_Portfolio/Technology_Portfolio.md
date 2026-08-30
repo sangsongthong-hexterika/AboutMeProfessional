@@ -86,7 +86,7 @@ This repository serves as the single source of truth for my technical background
 
 💼 [Personal LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)
 
-🌍 [My_Languages_Skills](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Skills/my_languages_skills.md)
+🌍 [Languages_Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Languages_Portfolio/Languages_portfolio.md)
 
 ---
 
