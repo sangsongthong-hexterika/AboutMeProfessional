@@ -17,11 +17,11 @@ Each project is carried from setup through configuration and testing, with the i
 
 ## Technical Projects
 
-**Featured:** [AWS IAM access model for a fictional hospital](https://github.com/sangsongthong-hexterika/AWS-IAM-Foundation-Setup/blob/main/sample-work/02-fictional-hospital/fictional-hospital.md): seven department group policies, verified with 90 IAM Policy Simulator tests.
+**Featured:** [AWS IAM access control for a fictional hospital](https://github.com/sangsongthong-hexterika/AWS-IAM-Security/blob/main/sample-work/02-fictional-hospital/fictional-hospital.md): each department reads what patient care needs, writes only its own records, and can't delete or see data outside its role. Verified with 90 IAM Policy Simulator tests.
 
 | Repository | Domain | Description |
 | --- | --- | --- |
-| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Foundation-Setup) | Cloud | AWS account foundation and organization-specific IAM access models. Hospital model complete (Phase 1, 90 permission tests); four more organizations planned. |
+| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Cloud | AWS account foundation and organization-specific IAM access models. Hospital model complete (Phase 1, 90 permission tests); four more organizations planned. |
 | [IT Support Notes](https://github.com/sangsongthong-hexterika/IT-Support-Notes) | IT | Practical IT support documentation — live setup work and lab work |
 | [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Security | Full engagement report (TryHackMe GoldenEye) written on a reusable, versioned report template |
 | [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Security | Windows Event Log investigation: logons, process creation, account creation, service installs and log clearing (Event IDs 4624/4625, 4688, 4720, 7045, 1102) |
