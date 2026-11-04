@@ -2,9 +2,9 @@
 
 👋 Hi, I'm Sangsongthong Chantaranothai.
 
-B.Sc. Sport Science | CompTIA Security+ | ISC2 CC | TryHackMe Jr. Pentester
+B.Sc. Sports Science | CompTIA Security+ | ISC2 CC | TryHackMe Jr. Pentester
 
-Founder of Hexterika Cyberlab — an independent IT & cybersecurity micro-studio focused on clear, scoped, deliverable-based services for individuals and small businesses.
+Founder of Hexterika Cyberlab, my own IT and cybersecurity services business.
 
 This repository serves as the central hub for my professional profile. It brings together my technical portfolio, language skills, academic background, and other professional information through dedicated repositories. Each track can evolve independently while remaining connected as part of a single professional portfolio.
 
@@ -12,7 +12,7 @@ This repository serves as the central hub for my professional profile. It brings
 
 This is where I sort my skills into relevant categories.
 
-💻 [Technology_Porfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Technology_Portfolio/Technology_Portfolio.md)
+💻 [Technology_Portfolio](https://github.com/sangsongthong-hexterika/AboutMeProfessional/blob/main/Technology_Portfolio/Technology_Portfolio.md)
 
 *This section provides access to my Tech Portfolio, organized by capabilities and supported by documented evidence.*
 
