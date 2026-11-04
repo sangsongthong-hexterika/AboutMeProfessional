@@ -2,9 +2,8 @@
 
 This repository is the single source of truth for my technical background, linking together certifications, projects, write-ups, and external technical profiles.
 
-Each project is carried from setup through configuration and testing, with the implementation documented as I go, and is intended to become four things simultaneously:
+Each project is carried from setup through configuration and testing, with the implementation documented as I go, and is intended to become three things simultaneously:
 
-+ a practical learning experience,
 + technical documentation,
 + a portfolio artifact,
 + and a reusable template or workflow for the next one.
@@ -18,13 +17,14 @@ Each project is carried from setup through configuration and testing, with the i
 
 ## Technical Projects
 
+**Featured:** [AWS IAM access control for a fictional hospital](https://github.com/sangsongthong-hexterika/AWS-IAM-Security/blob/main/sample-work/02-fictional-hospital/fictional-hospital.md): each department reads what patient care needs, writes only its own records, and can't delete or see data outside its role. Verified with 90 IAM Policy Simulator tests.
+
 | Repository | Domain | Description |
 | --- | --- | --- |
-| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Cloud | AWS account foundation and IAM group structures across five organization types, with walkthrough documentation |
-| [Active Directory Home Lab](https://github.com/sangsongthong-hexterika/ActiveDirectory-HomeLab) | Infrastructure | Windows Server domain build — domain controller, OUs, users, service accounts, share permissions |
+| [AWS IAM Security](https://github.com/sangsongthong-hexterika/AWS-IAM-Security) | Cloud | AWS account foundation and organization-specific IAM access models. Hospital model complete (Phase 1, 90 permission tests); four more organizations planned. |
 | [IT Support Notes](https://github.com/sangsongthong-hexterika/IT-Support-Notes) | IT | Practical IT support documentation — live setup work and lab work |
-| [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Security | Professional pentest reports from lab environments |
-| [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Security | Structured SOC detection lab across four phases |
+| [Mock Pentest Reports](https://github.com/sangsongthong-hexterika/MockPenetrationTestingReport) | Security | Full engagement report (TryHackMe GoldenEye) written on a reusable, versioned report template |
+| [SOC Analyst Lab](https://github.com/sangsongthong-hexterika/SOC-Analyst-Lab) | Security | Windows Event Log investigation: logons, process creation, account creation, service installs and log clearing (Event IDs 4624/4625, 4688, 4720, 7045, 1102) |
 | [TryHackMe Walkthroughs](https://github.com/sangsongthong-hexterika/TryHackMe-Walkthroughs) | Security | Room walkthroughs covering full attack chains |
 | [PortSwigger Labs](https://github.com/sangsongthong-hexterika/PortSwiggerWalkthroughs) | Security | Web application security labs |
 
